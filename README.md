@@ -30,6 +30,9 @@ HelpAlong uses a number of open source projects to work properly:
 
 And of course HelpAlong itself is open source with a public repository on GitHub.
 
+--------
+![Screenshot](asset/Picture1.png)
+
 ## Developers
 
 👨‍💻 Vishvesh Soni \
