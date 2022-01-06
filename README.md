@@ -15,7 +15,9 @@ Platform that allows all Nova Scotians to interact, request/provide assistance i
 
 ![Screenshot](asset/demo.gif)
 
-> ShfitKey labs Hackathon 2021 Demo : https://www.youtube.com/watch?v=tveFRt__3sc
+> ShfitKey labs Hackathon 2021 Demo
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tveFRt__3sc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Tech
 
