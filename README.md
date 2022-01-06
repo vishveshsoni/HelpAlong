@@ -26,4 +26,4 @@ HelpAlong uses a number of open source projects to work properly:
 - Twilio (https://www.twilio.com/) - Communication APIs for SMS
 - Android & IOS
 
-And of course HelpAlong itself is open source with a [public repository][dill] on GitHub.
+And of course HelpAlong itself is open source with a public repository on GitHub.
