@@ -14,3 +14,16 @@ Platform that allows all Nova Scotians to interact, request/provide assistance i
 ## Demo
 
 ![Screenshot](asset/demo.gif)
+
+## Tech
+
+HelpAlong uses a number of open source projects to work properly:
+
+- AngularJS - HTML enhanced for web apps!
+- Bootstrap - great UI boilerplate for modern web apps
+- Python3 - evented I/O for the backend
+- Dash - Plotly stewards Python's leading data viz and UI libraries 
+- Twilio (https://www.twilio.com/) - Communication APIs for SMS
+- Android & IOS
+
+And of course HelpAlong itself is open source with a [public repository][dill] on GitHub.
