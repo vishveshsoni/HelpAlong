@@ -4,7 +4,7 @@
 ![](https://img.shields.io/github/release/pandao/editor.md.svg)
 ![](https://img.shields.io/youtube/views/tveFRt__3sc?style=social)
 
-Platform that allows all Nova Scotians to interact, request/provide assistance in time of disasters without the need of internet through social and community interaction using SNS (Simple Notification Services)
+Platform that allows all Canadians to interact, request/provide assistance in time of disasters without the need of internet through social and community interaction using SNS (Simple Notification Services)
 
 ## Challenge
 
