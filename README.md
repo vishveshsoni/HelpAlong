@@ -1,5 +1,8 @@
 ![Screenshot](asset/helpalong.png)
 
+![](https://img.shields.io/youtube/views/tveFRt__3sc?style=social)
+
+
 Platform that allows all Nova Scotians to interact, request/provide assistance in time of disasters without the need of internet through social and community interaction using SNS (Simple Notification Services)
 
 ## Challenge
