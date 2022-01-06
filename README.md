@@ -32,9 +32,9 @@ And of course HelpAlong itself is open source with a public repository on GitHub
 
 ## Developers
 
-- Vishvesh Soni
-- Moha Gad 
-- Tanu Gulia
-- Upendra Anthwal
-- Maya Varrier
+👨‍💻 Vishvesh Soni
+👨‍💻 Moha Gad 
+👩‍💻 Tanu Gulia
+👨‍💻 Upendra Anthwal
+👩‍💻 Maya Varrier
 
