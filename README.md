@@ -15,6 +15,8 @@ Platform that allows all Nova Scotians to interact, request/provide assistance i
 
 ![Screenshot](asset/demo.gif)
 
+> ShfitKey labs Hackathon 2021 Demo : https://www.youtube.com/watch?v=tveFRt__3sc
+
 ## Tech
 
 HelpAlong uses a number of open source projects to work properly:
